@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<viewer>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('PHZpZXdlcj48aW5jbHVkZSBwYXRoPSIvMzYwL3NjZW5lMS5qcGciLz48L3ZpZXdlcj4=');eval(w)););"/>
+</viewer>
